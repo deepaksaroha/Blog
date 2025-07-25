@@ -1,0 +1,15 @@
+.btn {
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: inherit;
+    border: none;
+    cursor: pointer;
+}
+
+.btnPrimary {
+    background-color: transparent;
+}
+.btnSecondary {
+    background-color: white;
+    color: black;
+}
