@@ -1,0 +1,8 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(to bottom, #8f9398, transparent);
+    color: white;
+    padding: 20px;
+    justify-content: space-between;
+}
