@@ -1,7 +1,9 @@
 .navbar {
+    position: fixed;
+    width: 100%;
     display: flex;
     align-items: center;
-    background-image: linear-gradient(to bottom, #8f9398, transparent);
+    background-image: linear-gradient(to bottom, #313131, transparent);
     color: white;
     padding: 20px;
     justify-content: space-between;

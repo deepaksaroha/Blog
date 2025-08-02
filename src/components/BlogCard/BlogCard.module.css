@@ -1,0 +1,32 @@
+.blogCard{
+    display: flex;
+    flex-direction: column;
+    min-width: 350px;
+    overflow: hidden;
+    border-radius: 10px;
+    gap: 10px;
+    padding-bottom: 10px;
+}
+
+.blogImage{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.blogTitle{
+    margin-top: 30px;
+}
+
+.authorImage{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.authorInfo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

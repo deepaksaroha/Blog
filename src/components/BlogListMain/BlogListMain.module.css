@@ -1,0 +1,26 @@
+.blogListMainContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.blogListMain{
+    padding: 20px 20px 0 20px;
+}
+
+.mainhead{
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+.subhead{
+    font-weight: normal;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+.blogList{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+}

@@ -11,6 +11,6 @@
 
 .dialog {
     border-radius: 20px;
-    padding: 40px;
     margin: auto;
+    overflow: hidden;
 }
