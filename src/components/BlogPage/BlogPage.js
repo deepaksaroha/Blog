@@ -1,10 +1,12 @@
-const BlogPage = () => {
+import styles from './BlogPage.module.css';
+
+const BlogPage = ({ blog }) => {
   return (
-    <div>
-      <h1>Blog Page</h1>
-      <p>Welcome to the blog page!</p>
+    <div className={styles.blogPage}>
+      <h1 className={styles.heading}>{blog.title}</h1>
+      <p>{blog.content}</p>
     </div>
   );
-}
+};
 
 export default BlogPage;

@@ -1,7 +1,7 @@
 import BlogCard from "../BlogCard/BlogCard";
 import styles from "./BlogListMain.module.css";
 
-async function getStaticProps() {
+export async function getStaticProps() {
   const trendingBlogs = fetch('https://api.example.com/trending-blogs')
 
   return {

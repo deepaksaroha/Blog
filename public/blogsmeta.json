@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Understanding React Hooks",
+        "slug": "understanding-react-hooks",
+        "author": "Jane Doe",
+        "date": "2023-10-01",
+        "image": "understanding-react-hooks",
+        "excerpt": "An introduction to React Hooks, their benefits, and how to use them effectively in your applications."
+    },
+    {
+        "id": 2,
+        "title": "Next.js for Beginners",
+        "slug": "next-js-for-beginners",
+        "author": "John Smith",
+        "date": "2023-10-02",
+        "image": "next-js-for-beginners",
+        "excerpt": "A beginner's guide to Next.js, covering its features, benefits"
+    },
+    {
+        "id": 3,
+        "title": "CSS Grid vs Flexbox",
+        "slug": "css-grid-vs-flexbox",
+        "author": "Alice Johnson",
+        "date": "2023-10-03",
+        "image": "css-grid-vs-flexbox",
+        "excerpt": "A comparison of CSS Grid and Flexbox, discussing their differences, advantages"
+    },
+    {
+        "id": 4,
+        "title": "JavaScript ES6 Features",
+        "slug": "javascript-es6-features",
+        "author": "Bob Brown",
+        "date": "2023-10-04",
+        "image": "javascript-es6-features",
+        "excerpt": "An overview of the new features introduced in ES6, how they improve"
+    },
+    {
+        "id": 5,
+        "title": "Building REST APIs with Node.js",
+        "slug": "building-rest-apis-with-node-js",
+        "author": "Charlie Green",
+        "date": "2023-10-05",
+        "image": "building-rest-apis-with-node-js",
+        "excerpt": "Learn how to build RESTful APIs using Node.js, Express"
+    },
+    {
+        "id": 6,
+        "title": "GraphQL vs REST",
+        "slug": "graphql-vs-rest",
+        "author": "Diana White",
+        "date": "2023-10-06",
+        "image": "graphql-vs-rest",
+        "excerpt": "A detailed comparison of GraphQL and REST, discussing their differences, advantages"
+    }
+]

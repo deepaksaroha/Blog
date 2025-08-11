@@ -1,0 +1,8 @@
+.blogItem {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 500px;
+  margin: 20px;
+}
